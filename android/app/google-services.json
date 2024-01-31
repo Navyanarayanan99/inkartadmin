@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "760683750750",
+    "firebase_url": "https://inkartapp-default-rtdb.firebaseio.com",
+    "project_id": "inkartapp",
+    "storage_bucket": "inkartapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760683750750:android:8e3b536bc4b235c1bbdbcf",
+        "android_client_info": {
+          "package_name": "com.inkart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760683750750-aarov1kirsnv02n7cjtqksv0i97obaav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVjZJscP5AJ49lqB38qEW3S5tC3n7_utk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760683750750-aarov1kirsnv02n7cjtqksv0i97obaav.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760683750750:android:3a77432f0fb6b2f9bbdbcf",
+        "android_client_info": {
+          "package_name": "com.inkartadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760683750750-aarov1kirsnv02n7cjtqksv0i97obaav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVjZJscP5AJ49lqB38qEW3S5tC3n7_utk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760683750750-aarov1kirsnv02n7cjtqksv0i97obaav.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760683750750:android:09b5d59bb55ba1febbdbcf",
+        "android_client_info": {
+          "package_name": "com.inkartadminapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760683750750-aarov1kirsnv02n7cjtqksv0i97obaav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVjZJscP5AJ49lqB38qEW3S5tC3n7_utk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760683750750-aarov1kirsnv02n7cjtqksv0i97obaav.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
